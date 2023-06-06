@@ -14,7 +14,7 @@ When launching the program...
 2. After inputting string, console will output the frequency of a character in your inputted string
 3. Done, the character count is complete
 
-Please refer to the isntructions above or the flowchart below
+Please refer to the instructions above or the flowchart below
 ![flowchart](https://github.com/s4dbaby/CIS11_COUNTER/assets/120606764/55228dde-8749-47e8-9ed0-c3a43929a04b)
 
 
